@@ -8,7 +8,8 @@
     <packaging>jar</packaging>
 
     <name>datazuul.com - DataZuul Applications: BSAF Examples</name>
-    <url>http://maven.apache.org</url>
+    <url>https://kenai.com/projects/bsaf/</url>
+    <description>This project took the examples from the BSAF homepage and makes it available as Maven project.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
